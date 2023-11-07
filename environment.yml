@@ -1,0 +1,11 @@
+name: llm_ai_eo
+channels:
+    - defaults
+    - conda-forge
+dependencies:
+    - pip:
+      - llm
+    - conda-forge::git-lfs
+    - jupyter
+    - pip
+    - python
