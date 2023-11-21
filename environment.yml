@@ -10,6 +10,8 @@ dependencies:
       - llm-mlc
       - llm-sentence-transformers
     - conda-forge::git-lfs
+    - conda-forge::spacy
+    - ipykernel
     - jupyter
     - pandas
     - pip
