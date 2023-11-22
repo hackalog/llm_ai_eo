@@ -6,6 +6,7 @@ dependencies:
     - pip:
       - --pre -f https://mlc.ai/wheels mlc-ai-nightly
       - --pre -f https://mlc.ai/wheels mlc-chat-nightly
+      - fast_hdbscan
       - llm
       - llm-mlc
       - llm-sentence-transformers
