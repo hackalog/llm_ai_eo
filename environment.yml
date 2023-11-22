@@ -9,10 +9,18 @@ dependencies:
       - llm
       - llm-mlc
       - llm-sentence-transformers
+      - thisnotthat
+    - bokeh
+    - colorcet
     - conda-forge::git-lfs
     - conda-forge::spacy
+    - conda-forge::umap-learn
+    - datashader
+    - holoviews
     - ipykernel
     - jupyter
+    - matplotlib
     - pandas
     - pip
     - python
+    - scikit-image
